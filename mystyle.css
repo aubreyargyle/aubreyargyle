@@ -7,3 +7,8 @@
     <div class="col">col</div>
   </div>
 </div>
+
+*:text {
+  font-size: 12px;
+  font-family: Montserrat;
+}
