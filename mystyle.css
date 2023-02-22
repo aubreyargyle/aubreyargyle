@@ -1,17 +1,14 @@
 .title {
-  color: color: #581845;
-  font-family: Montserrat;
-}
-
-h1 {
-  font-family: Montserrat;
-}
-
-h2 {
+  .color-6 {color: #581845;}
+  color: #581845;
   font-family: Montserrat;
 }
 
 p {
+  font-family: Montserrat;
+}
+
+li {
   font-family: Montserrat;
 }
   
