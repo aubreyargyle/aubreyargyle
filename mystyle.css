@@ -8,7 +8,9 @@ h1 {
 }
 
 h2 {
-  color: green;
+  color: white;
+  background-color: green;
+  opacity: 0.75;
   font-family: Montserrat;
 }
 
