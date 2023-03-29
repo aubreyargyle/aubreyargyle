@@ -2,8 +2,8 @@ header {
   position: fixed;
   width: 100%;
   z-index: 10;
-  background-color: green;
-  border-bottom: 1px solid green;
+  background-color: .bg-light;
+  border-bottom: 1px solid .bg-light;
 }
 
 p {
