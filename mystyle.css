@@ -21,6 +21,11 @@
   color: black;
 }
 
+img {
+  width: auto;
+  height: auto;
+}
+
 .main {
   margin-top: 30px;
 }
