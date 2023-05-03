@@ -55,3 +55,7 @@ h3 {
 li {
   font-family: Monsterrat;
 }
+
+.social-icon{
+  position: fixed;
+}
