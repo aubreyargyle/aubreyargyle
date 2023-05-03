@@ -16,7 +16,7 @@
   padding: 14px 14px;
 }
 
-.navbar a: hover {
+.navbar a:hover {
   background: green;
   color: black;
 }
