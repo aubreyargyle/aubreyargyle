@@ -54,14 +54,14 @@ li {
   font-family: Monsterrat;
 }
 
-.social-icon {
+.social-links {
    color:#aaaaaa;
    transition: color 0.2s;
    margin: 0 10px;
    display: flex;
 }
 
-.social-icon a {
+.social-links a {
   width: 80px;
   height: 80px;
   text-align: center;
